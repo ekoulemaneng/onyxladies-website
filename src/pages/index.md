@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Au-delà du sport, être utiles à tous
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: ssddddssqq
+subheading: Faire don du nôtre à la société
 mainpitch:
-  title: Why Kaldi
+  title: Pourquoi Onyx Ladies ?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Onyx Ladies, association d'anciennes joueuses d'Onyx Basket-Ball Club de
+    Yaoundé, a été créée dans le but d'optimiser les relations entre ses membres
+    à travers le partage des connaissances, d'expériences et des initiatives
+    d'assistance sociale aux personnes nécessiteuses.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
