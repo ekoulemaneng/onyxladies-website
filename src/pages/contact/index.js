@@ -39,7 +39,12 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Formulaire de contact</h1>
+			  <div style={{marginBottom: '2rem'}}>
+				<p style={{marginBottom: '.15rem'}}>Notre siège se trouve à Yaoundé, Cameroun, plus précisement au quartier Melen.</p>
+				<p style={{marginBottom: '.15rem'}}>Vous pouvez nous contacter par les numéros de téléphone: <a href='tel:+237698306250'>(+237) 6 98 30 62 50</a> ou <a href='tel:+237673458225'>(+237) 6 73 45 82 25</a></p>
+				<p style={{marginBottom: '.15rem'}}>Vous pouvez aussi nous envoyer un message en remplissant le formulaire ci-dessous.</p>
+			  </div>
               <form
                 name="contact"
                 method="post"
@@ -58,7 +63,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Votre nom
                   </label>
                   <div className="control">
                     <input
@@ -73,7 +78,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'email'}>
-                    Email
+                    Votre email
                   </label>
                   <div className="control">
                     <input
@@ -86,9 +91,23 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
+				<div className="field">
+                  <label className="label" htmlFor={'tel'}>
+                    Votre numéro de téléphone
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'tel'}
+                      name={'tel'}
+                      onChange={this.handleChange}
+                      id={'tel'}
+                    />
+                  </div>
+                </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Votre message
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +121,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Envoyez
                   </button>
                 </div>
               </form>
