@@ -58,14 +58,14 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://www.instagram.com/onyx_ladies/">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="YouTube" href="https://youtube.com">
+                <a title="YouTube" href="https://www.youtube.com/channel/UCQlGQBbUUyA5vdl4OfGBAJw">
                   <img
                     src={youtube}
                     alt="YouTube"
