@@ -1,19 +1,19 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Qui sommes-nous ?
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+En 2000, des personnes soucieuses du développement du sport et de l‘encadrement de la jeunesse camerounaise créèrent un club sportif à Yaoundé: Onyx Basket Club. Le club comptant une section féminine, mise sur pied en 2010, nous eûmes l‘honneur d‘intégrer celle-ci au fil des années.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Au sein d‘Onyx, bien plus qu‘une formidable expérience sportive et une belle camaraderie de vestiaire, nous avions bénéficié d‘un encadrement de qualité qui a largement contribué à faire de nous ce que nous sommes devenues individuellement sur les plans personnel, sportif et socio-professionnel.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Bien après avoir quitté le club sur le plan purement sportif, nous en sommes pourtant restés attachés en esprit. Des liens que nous avions conservé entre nous, anciennes joueuses d‘Onyx, et des échanges que nous entretenions a germé l‘idée d‘une initiative pour rendre à Onyx et à la société ce que le club nous avait donné pour notre épanouissement.
+
+
+C‘est ainsi qu‘après moultes réflexions et concertations, nous, anciennes joueuses d‘Onyx, avons décidé de créer, vers la fin de l‘année 2020, une association dénommée Onyx Ladies dans le but fondateur de réaliser le dessein sus-évoqué. 
+Bien que l‘initiative vienne des anciennes joueuses d‘Onyx, l‘association accueille toute personne qui adhère à nos valeurs, peu importe qu‘il ait été ou qu‘il soit lié ou pas à Onyx Basket Club. 
+
+
+Onyx Ladies appelle toutes les âmes de bonne volonté à lui apporter leurs soutiens moraux, matériels, financiers et en compétence. Vous pouvez prendre contact avec nous pour nous accompagner dans la réalisation de nos missions.
