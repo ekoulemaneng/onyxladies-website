@@ -3,11 +3,9 @@ templateKey: about-page
 path: /about
 title: Qui sommes-nous ?
 ---
-![](/img/whatsapp-image-2020-12-15-at-12.36.54.jpeg)
-
-
-
 En 2000, des personnes soucieuses du développement du sport et de l‘encadrement de la jeunesse camerounaise créèrent un club sportif à Yaoundé: Onyx Basket Club. Le club comptant une section féminine, mise sur pied en 2010, nous eûmes l‘honneur d‘intégrer celle-ci au fil des années.
+
+![](/img/whatsapp-image-2020-12-15-at-12.36.54.jpeg)
 
 Au sein d‘Onyx, bien plus qu‘une formidable expérience sportive et une belle camaraderie de vestiaire, nous avions bénéficié d‘un encadrement de qualité qui a largement contribué à faire de nous ce que nous sommes devenues individuellement sur les plans personnel, sportif et socio-professionnel.
 
