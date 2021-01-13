@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Au-delà du sport, être utiles à tous
-image: /img/home-jumbotron.jpg
+image: /img/onyx-ladies-instagram-14.jpg
 heading: ssddddssqq
 subheading: Faire don du nôtre à la société
 mainpitch:
