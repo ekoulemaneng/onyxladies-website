@@ -11,6 +11,8 @@ tags:
 ---
 A l’occasion de la célébration des 20 ans de l’académie de basket-ball Onyx, l’association Onyx Ladies a lancé ses activités. C’était une première pour l’association, et l’événement s’est déroulée dans le cadre très convivial du Club Hellénique de Bastos (église orthodoxe).
 
+![Anciennes joueuses d'Onyx Basket-ball Academy et membres d'Onyx Ladies](/img/onyx-ladies-instagram-14.jpg)
+
 # De l’association Onyx Ladies
 
 Onyx Ladies est une association à but non lucratif, faisant essentiellement dans le social. Nous touchons toutes les couches de la société. Onyx Ladies n’est pas une association sportive, et n’est encore moins liée à l’académie Onyx Basketball. Son objectif majeur est l’encadrement des jeunes afin de les orienter vers un bel avenir et les former à être des citoyens responsables
@@ -27,7 +29,5 @@ Aussi nous avons pris part à un match d’exhibition contre la nouvelle génér
 Le président de l’académie nous a décerné un diplôme de participation à l’évènement, un premier parchemin qui nous honore et nous encourage à en faire davantage.
 
 La journée s’est achevée par la photo de famille, suivie de la coupure du gâteau des 20 ans.
-
-
 
 **EKOULE Chantal**, présidente de l’association Onyx Ladies.
